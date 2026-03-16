@@ -1,0 +1,9 @@
+@import '../utilities/neumorphism.css';
+
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+* {
+  font-family: sans-serif !important;
+}

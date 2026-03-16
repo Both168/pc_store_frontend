@@ -1,0 +1,51 @@
+/* Neumorphism Flat */
+.neumorphic {
+    background: #e0e5ec;
+    box-shadow: 6px 6px 5px rgba(199, 204, 211, 0.35), -6px -6px 5px rgba(255, 255, 255, 0.48999999999999994);
+    border-radius: 20px;
+}
+
+/* Applied to button */
+.neumorphic-button {
+    background: #e0e5ec;
+    border: none;
+    border-radius: 20px;
+    box-shadow: 6px 6px 5px rgba(199, 204, 211, 0.35), -6px -6px 5px rgba(255, 255, 255, 0.48999999999999994);
+    color: #5a6c7d;
+    padding: 1rem 2rem;
+    font-weight: 600;
+    cursor: pointer;
+    transition: all 0.3s ease;
+}
+
+.neumorphic-button:hover {
+    transform: translateY(-2px);
+}
+
+.neumorphic-button:active {
+    transform: scale(0.98);
+}
+
+/* Applied to card */
+.neumorphic-card {
+    background: #e0e5ec;
+    border-radius: 20px;
+    box-shadow: 6px 6px 5px rgba(199, 204, 211, 0.35), -6px -6px 5px rgba(255, 255, 255, 0.48999999999999994);
+    padding: 2rem;
+}
+
+/* Applied to input */
+.neumorphic-input {
+    background: #e0e5ec;
+    border: none;
+    border-radius: 20px;
+    box-shadow: 6px 6px 5px rgba(199, 204, 211, 0.35), -6px -6px 5px rgba(255, 255, 255, 0.48999999999999994);
+    color: #5a6c7d;
+    padding: 0.75rem 1rem;
+    font-size: 1rem;
+}
+
+.neumorphic-input:focus {
+    outline: none;
+}
+

@@ -1,0 +1,37 @@
+{
+  "data": [
+    {
+      "value": 1,
+      "name": "Logitech"
+    },
+    {
+      "value": 2,
+      "name": "ROG"
+    },
+    {
+      "value": 3,
+      "name": "DELL"
+    },
+    {
+      "value": 4,
+      "name": "Samsung"
+    },
+    {
+      "value": 5,
+      "name": "Apple"
+    },
+    {
+      "value": 6,
+      "name": "HP"
+    },
+    {
+      "value": 7,
+      "name": "Razer"
+    },
+    {
+      "value": 8,
+      "name": "Hyper X"
+    }
+  ]
+}
+
